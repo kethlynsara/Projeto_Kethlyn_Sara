@@ -1,1 +1,0 @@
-# Trabalho Gerência de Configurações
