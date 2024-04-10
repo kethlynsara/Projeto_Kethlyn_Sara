@@ -11,4 +11,8 @@ class C {
   public MC2(): string {
     return "MC2";
   }
+
+  public MC3(): string {
+    return "MC3";
+  }
 }
