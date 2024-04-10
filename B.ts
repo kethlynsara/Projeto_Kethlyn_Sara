@@ -13,10 +13,14 @@ class B {
   }
 
   public MB1(): string {
-    return 'MB1';
+    return "MB1";
   }
 
   public MB2(): string {
-    return 'MB2';
+    return "MB2";
+  }
+
+  public MB3(): string {
+    return "MB3";
   }
 }
