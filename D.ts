@@ -11,4 +11,8 @@ class D {
   public MD2(): string {
     return "MD2";
   }
+
+  public MD4(): string {
+    return "MD4";
+  }
 }
