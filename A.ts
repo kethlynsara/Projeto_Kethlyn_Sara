@@ -19,4 +19,8 @@ class A {
   public MA2(): string {
     return "MA2";
   }
+
+  public MA3():string {
+    return "Alteração a classe A partir do clone";
+  }
 }
